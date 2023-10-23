@@ -1,0 +1,3 @@
+(sym_lib_table
+ (lib (name RT1010Py_Rev.C)(type Legacy)(uri ${KIPRJMOD}/RT1010Py_Rev.C.lib)(options "")(descr ""))
+)
