@@ -1,0 +1,6 @@
+{
+  "urls": [
+    ["ws2812.py", "github:OLIMEX/RT1010Py/lib/pyboard/ws2812.py"]
+  ],
+  "version": "1.0"
+}
